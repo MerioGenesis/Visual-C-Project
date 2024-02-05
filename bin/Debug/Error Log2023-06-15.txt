@@ -1,0 +1,18 @@
+Error Time: 15/06/2023 03:11:56
+Error encountered: Index was outside the bounds of the array. (Unselected customer)
+----------------------------------------------
+Error Time: 15/06/2023 03:31:46
+Error encountered: Assignment in conditional expression is always constant; did you mean to use == instead of = ?
+----------------------------------------------
+Error Time: 15/06/2023 04:11:45
+Error encountered: Input string was not in a correct format. (Unselected month)
+----------------------------------------------
+Error Time: 15/06/2023 04:16:33
+Error encountered: Index was outside the bounds of the array.
+----------------------------------------------
+Error Time: 15/06/2023 04:20:25
+Error encountered: Index was outside the bounds of the array.
+----------------------------------------------
+Error Time: 15/06/2023 19:54:36
+Error encountered: Input string was not in a correct format. (VAT calculations)
+----------------------------------------------
